@@ -1,13 +1,12 @@
 {
-  "versionCode": 75,
-  "versionName": "4.35.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.35.0/emby-probe-4.35.0.apk",
+  "versionCode": 76,
+  "versionName": "4.36.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.36.0/emby-probe-4.36.0.apk",
   "size": 30256567,
-  "publishedAt": 1794399195,
+  "publishedAt": 1794400533,
   "notes": [
-    "关于页新增「检查更新」，点一下立刻查并显示结果",
-    "更新检查加了镜像兜底：GitHub raw 不通时走 jsDelivr",
-    "内置更新：启动静默检查，新版弹层里直接下载安装",
-    "图标库纯本地：内置 12 个图标包，可开关"
+    "修复关于页底部被导航栏遮住、滑动滚不到底",
+    "关于页新增「检查更新」，可手动检查并直接更新",
+    "更新检查支持 GitHub raw 与 jsDelivr 双源"
   ]
 }
