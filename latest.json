@@ -1,0 +1,15 @@
+{
+  "versionCode": 73,
+  "versionName": "4.33.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.33.0/emby-probe-4.33.0.apk",
+  "size": 30223351,
+  "publishedAt": 1794398478,
+  "notes": [
+    "图标库改为纯本地：内置 12 个图标包，可在设置里开关",
+    "图标库缓存在本机，按 ETag 每 24 小时静默检查更新",
+    "缩略图改为滑到才加载，不再整库预取",
+    "长按菜单第一项改为「详情」",
+    "桌面小组件显示在线 / 离线台数",
+    "编辑服务器时回填并明文显示用户名、密码"
+  ]
+}
