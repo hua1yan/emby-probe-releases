@@ -1,12 +1,12 @@
 {
-  "versionCode": 76,
-  "versionName": "4.36.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.36.0/emby-probe-4.36.0.apk",
+  "versionCode": 77,
+  "versionName": "4.37.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.37.0/emby-probe-4.37.0.apk",
   "size": 30256567,
-  "publishedAt": 1794400533,
+  "publishedAt": 1794402705,
   "notes": [
-    "修复关于页底部被导航栏遮住、滑动滚不到底",
-    "关于页新增「检查更新」，可手动检查并直接更新",
-    "更新检查支持 GitHub raw 与 jsDelivr 双源"
+    "修复关于页滑动：内容不再被限制在一屏内，能正常滚到底",
+    "更新包下载支持镜像：直连失败自动换 ghfast / gh-proxy",
+    "检查更新双源并行，不再等超时"
   ]
 }
