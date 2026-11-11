@@ -1,10 +1,11 @@
 {
-  "versionCode": 78,
-  "versionName": "4.38.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.38.0/emby-probe-4.38.0.apk",
+  "versionCode": 79,
+  "versionName": "4.39.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.39.0/emby-probe-4.39.0.apk",
   "size": 30256567,
-  "publishedAt": 1794405264,
+  "publishedAt": 1794409514,
   "notes": [
-    "图标选择的搜索框改回 miuix 搜索条，恢复可见底色"
+    "切换深浅色时顶部渐变不再停在旧颜色",
+    "深色模式下搜索框改用独立底色，不再和弹层融在一起"
   ]
 }
