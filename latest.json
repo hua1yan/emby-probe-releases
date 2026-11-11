@@ -1,11 +1,11 @@
 {
-  "versionCode": 79,
-  "versionName": "4.39.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.39.0/emby-probe-4.39.0.apk",
+  "versionCode": 80,
+  "versionName": "4.40.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.40.0/emby-probe-4.40.0.apk",
   "size": 30256567,
-  "publishedAt": 1794409514,
+  "publishedAt": 1794412074,
   "notes": [
-    "切换深浅色时顶部渐变不再停在旧颜色",
-    "深色模式下搜索框改用独立底色，不再和弹层融在一起"
+    "更新包的下载源改为手动选择，不再逐个试",
+    "默认用 ghfast 镜像，避开直连 GitHub 握手慢"
   ]
 }
