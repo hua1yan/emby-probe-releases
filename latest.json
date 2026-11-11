@@ -1,12 +1,10 @@
 {
-  "versionCode": 77,
-  "versionName": "4.37.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.37.0/emby-probe-4.37.0.apk",
+  "versionCode": 78,
+  "versionName": "4.38.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.38.0/emby-probe-4.38.0.apk",
   "size": 30256567,
-  "publishedAt": 1794402705,
+  "publishedAt": 1794405264,
   "notes": [
-    "修复关于页滑动：内容不再被限制在一屏内，能正常滚到底",
-    "更新包下载支持镜像：直连失败自动换 ghfast / gh-proxy",
-    "检查更新双源并行，不再等超时"
+    "图标选择的搜索框改回 miuix 搜索条，恢复可见底色"
   ]
 }
