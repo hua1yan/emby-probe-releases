@@ -1,0 +1,14 @@
+{
+  "versionCode": 44700,
+  "versionName": "4.47.0",
+  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.47.0/emby-probe-4.47.0.apk",
+  "size": 4018715,
+  "publishedAt": 1794498378,
+  "notes": [
+    "安装包从 30 MB 瘦到 4 MB",
+    "桌面小部件：电影 / 剧集 / 单集不再一直是 0；显示服务器自己的图标；不打开 App 也会定时更新",
+    "检查更新更稳：不再受 GitHub 匿名额度影响",
+    "联网更省：连接复用；看 24 小时时只取最近一天的记录",
+    "下载更新时界面不再跟着频繁重画"
+  ]
+}
