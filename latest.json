@@ -1,12 +1,6 @@
 {
-  "versionCode": 44900,
-  "versionName": "4.49.0",
-  "apk": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.49.0/emby-probe-4.49.0.apk",
-  "size": 4071286,
-  "publishedAt": 1794909755,
-  "notes": [
-    "图标搜索支持拼音：汉字、全拼、首字母三种输入都能互搜",
-    "修最后播放时间停在旧日期：读记录的超时原本被压成 1 秒",
-    "安装包 4.1 MB"
-  ]
+  "versionCode": 44902,
+  "versionName": "4.49.2",
+  "url": "https://github.com/hua1yan/emby-probe-releases/releases/download/v4.49.2/emby-probe-4.49.2.apk",
+  "notes": "清除图标时先问一次服务器，有账号头像就自动填回来；添加服务器后自动取头像。"
 }
